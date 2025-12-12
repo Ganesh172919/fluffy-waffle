@@ -26,5 +26,9 @@ python jax-learning\scan_lax.py
 python jax-learning\cnn.py
 python jax-learning\autodiff_advanced.py
 python jax-learning\data_loading.py
+python jax-learning\pmap_demo.py
+python jax-learning\custom_autodiff.py
+python jax-learning\linalg.py
+python jax-learning\mixed_precision.py
 ```
 AI Frameworks
